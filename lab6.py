@@ -95,4 +95,6 @@ def count(results):
   print("total)", total)
   return total_earned += total
 
-main()
+
+
+Main()
